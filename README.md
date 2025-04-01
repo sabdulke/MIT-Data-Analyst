@@ -7,6 +7,5 @@ Task 2 -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Task%202.pdf
 Task 3 -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Task%203%20Code%20Sample.c
 
 The data visualizations can be accessed below:
-https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%20House.png
-https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%senate.png
-
+House -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%20House.png
+Senate -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%20senate.png
