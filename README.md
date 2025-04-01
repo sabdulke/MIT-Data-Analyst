@@ -9,3 +9,6 @@ Task 3 -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Task%203%20Code
 The data visualizations can be accessed below:
 House -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%20House.png
 Senate -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/legislation%20status%20in%20senate.png
+
+To access the interactive data visualization output, please run the following notebook:
+https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Interactive_Data_Visualization.ipynb
