@@ -6,3 +6,5 @@ Task 1 --  https://github.com/sabdulke/MIT-Data-Analyst/blob/main/task1.sql
 Task 2 -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Task%202.pdf
 Task 3 -- https://github.com/sabdulke/MIT-Data-Analyst/blob/main/Task%203%20Code%20Sample.c
 
+The data visualizations can be accessed below:
+
